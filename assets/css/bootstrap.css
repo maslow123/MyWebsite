@@ -4171,10 +4171,13 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   min-height: 50px;
   margin-bottom: 20px;
   border: 1px solid transparent;
+  margin-top:-20px;
+
 }
 @media (min-width: 768px) {
   .navbar {
     border-radius: 0px;
+    position:fixed;
   }
 }
 @media (min-width: 768px) {
@@ -4592,9 +4595,10 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   color: #ccc;
 }
 .navbar-inverse {
-  background-color: #222;
+  background-color: #282d32;
   border-color: #080808;
   position:fixed;
+
   width:100%;
 }
 .navbar-inverse .navbar-brand {

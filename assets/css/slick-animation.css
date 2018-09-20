@@ -23,12 +23,15 @@ html, body {
     .slick-prev:before,
     .slick-next:before {
       color: black;
+      width:20px;
+
     }
 
 
     .slick-slide {
       transition: all ease-in-out .3s;
       opacity: .2;
+
     }
     
     .slick-active {

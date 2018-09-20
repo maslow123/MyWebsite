@@ -1,0 +1,11 @@
+
+.parallax{
+	 width:1350px;
+	 height:500px;
+	 background-image:url('../assets/images/parallax-img.jpg');
+	 background-size: cover;
+	 background-attachment: fixed;
+ }
+ .parallax-reguler{
+
+ }

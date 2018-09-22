@@ -9,12 +9,12 @@
 	<link rel="stylesheet" type="text/css" href="../assets/css/slick-animation.css">
 	<style>
 		.parallax{
-		 width:1260px;
-	  	 height:450px;
+	   width:auto;
+     height:450px;
 	 	 background-image:url('../assets/images/parallax1.jpg');
 	 	 background-attachment: fixed;
 	 	 background-size:1300px;
-	 	 margin-top:-110px;
+	 	 margin-top:-150px;
  		}
  		.welcome{
  			font-family: 'Pacifico',cursive,sans-serif;

@@ -26,8 +26,6 @@ html, body {
       width:20px;
 
     }
-
-
     .slick-slide {
       transition: all ease-in-out .3s;
       opacity: .2;

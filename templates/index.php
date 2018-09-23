@@ -25,7 +25,7 @@
 			<h3>BIODATA SINGKAT</h3>
 		</div>
 		<div class="col-md-3 col-xs-3 content">
-			2011 : Mulai mengenal komputer<br><br><hr class="hr-content">
+			2011 : Mulai mengenal komputer</h1><br><br><hr class="hr-content">
 			<p>Pada tahun 2011 saya mulai mengenal komputer ketika saya hendak bermain
 				game online di Warung Internet(Warnet)</p>
 		</div>

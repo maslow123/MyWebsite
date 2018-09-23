@@ -1,8 +1,6 @@
-		@media(width: 1300px){
 		body{
 			font-family:"Lucida Grande","Verdana","Sans-serif";
 		}
-	}
 		.sub{
 			margin:40px;			
 		}
@@ -42,7 +40,4 @@
 			width:50%px;
 			border:1px solid black;
 			margin-right:10px;
-		}
-		p{
-			font-weight:normal;
 		}

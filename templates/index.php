@@ -10,7 +10,7 @@
 			background-image:url('../assets/images/content.jpg');
 			background-attachment:fixed;
 			background-size: 1260px;
-			width:1260px;
+			width:auto;
 			height: 600px;
 			margin-top:-50px;
 			font-family:"Lucida Grande","Verdana","Sans-serif";	

@@ -17,13 +17,13 @@
 		<div class="col-md-2 col-xs-2 p-image">
 			<img src="../assets/images/me.jpg">
 			<p class="name">M.Fadhly NR</p>
-			<p class="job">Junior Developer</p>
+			<p class="job">Junior Coder</p>
 		</div>
 		<div class="col-md-7 p-content">
 			<h2 style="text-align: center;font-family: 'Inconsolata';">MY PROFILE</h2>
 			<div class="w3-panel w3-leftbar w3-light-grey">
       			<h3 class="b-sub">
-      				Hello, I'm a junior developer /<div style="color:#1d90fe; float:right; padding-left:3px; font-size:18px; ">Web Developer / Web Design</div>
+      				Hello, I'm a junior programmer /<div style="color:#1d90fe; float:right; padding-left:3px; font-size:18px; ">Web Developer / Web Design</div>
       			</h3>
       			<h3 class="b-sub-2">
       				Saya adalah junior programmer yang hanya berpendidikan SMK, mulai mengenali programming

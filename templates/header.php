@@ -15,8 +15,8 @@
 					</div>
 				</div>
 				<ul class="nav navbar-nav">
-					<li><a href="#">Home</a></li>
-					<li><a href="#">Profile</a></li>
+					<li><a href="../templates/index.php">Home</a></li>
+					<li><a href="../templates/profile.php">Profile</a></li>
 					<li><a href="#">About Me</a></li>
 					<li><a href="#">Contact</a></li>
 				</ul>

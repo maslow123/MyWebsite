@@ -14,7 +14,7 @@
 	 	 background-image:url('../assets/images/parallax1.jpg');
 	 	 background-attachment: fixed;
 	 	 background-size:1300px;
-	 	 margin-top:-150px;
+	 	 margin-top:-50px;
  		}
  		.welcome{
  			font-family: 'Pacifico',cursive,sans-serif;

@@ -18,14 +18,8 @@
 					<li><a href="../templates/index.php">Home</a></li>
 					<li><a href="../templates/profile.php">Profile</a></li>
 					<li><a href="#">About Me</a></li>
-					<li><a href="#">Contact</a></li>
-				</ul>
-				<ul class="nav navbar-nav navbar-right">
-					<li><a href="#"><span class="glyphicon glyphicon-user"></span>Daftar</a></li>
-					<li><a href="#"><span class="glyphicon glyphicon-login"></span>Login</a></li>
 				</ul>
 			</div>
 		</nav>
-		<h3></h3><br/><br/>
 	</body>
 </html>

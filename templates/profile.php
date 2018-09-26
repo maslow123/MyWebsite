@@ -34,35 +34,36 @@
     		<h2 style="text-align:center;font-family: 'Inconsolata';">TEST</h2>
 			<div class="w3-panel w3-leftbar w3-light-grey social">
 				<div class="col-md-3 col-xs-2" >
-					<h3 class="b-sub header">
+					<h2 class="b-sub header">
 						Email : <br/>
 						Phone :	<br/>
 						Date of birth :	<br/>
-					</h3>
+					</h2>
 				</div>
 				<div class="col-md-3">
-					<h3 class="b-sub social-media">
+					<h2 class="b-sub social-media">
 						mfadhlyn@gmail.com <br/>
 						081223674749 <br/>
 						October 29,2001<br/>
-					</h3>
+					</h2>
 				</div>
 				<div class="col-md-3 col-xs-2">
-					<h3 class="b-sub header">
+					<h2 class="b-sub header">
 						Address :<br/>
 						Website :<br/>
 						Language:<br/>
-					</h3>
+					</h2>
 				</div>
 				<div class="col-md-3">
-					<h3 class="b-sub social-media">
+					<h2 class="b-sub social-media">
 						Griya Cipeucang Indah, Blok C6/8 <br/>
 						lalala.com<br/>
 						Indonesian<br/>
-					</h3>
+					</h2>
 				</div>
     		</div>
 		</div>
 	</div>
+	<?php include'footer.php';?>
 </body>
 </html>

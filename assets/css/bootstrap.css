@@ -4600,6 +4600,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   opacity:0.9;
   position:fixed;
   width:100%;
+  top:15px;
 }
 .navbar-inverse .navbar-brand {
   color: #fff;

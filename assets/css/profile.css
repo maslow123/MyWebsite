@@ -1,11 +1,10 @@
 .wrapper{
 	background:#e1e2e3;
-	margin-left:0px;
 	height:600px;
-	padding-top:33px;
-	padding-left:70px;
+	padding:3.9em 0 0 6.5em;
+	border-radius:5px;
 }
-.p-image img{width:320px;height:500px;}
+.p-image img{width:320px;height:520px;}
 .name,.job{
 	margin-top:-60px;
 	color:#000;
@@ -22,7 +21,7 @@
 }
 .p-content{
 	background:#fff;
-	height:500px;
+	height:520px;
 	margin:0 100px;
 	padding-left: :0px;
 }

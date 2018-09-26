@@ -15,14 +15,13 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6 col-md-3 item">
-                        <h3>Skill</h3>
+                        <h1>Contact</h1>
                         <ul>
-                            <li><a href="#">Web Design</a></li>
-                            <li><a href="#">Development</a></li>                           
+                            <li style="color:inherit;opacity:0.6;">No : 0812 2367 4749</li>                           
                         </ul>
                     </div>
                     <div class="col-sm-6 col-md-3 item">
-                        <h3>About Me</h3>
+                        <h1>About Me</h1>
                         <ul>
                             <li><a href="#">Biografi</a></li>
                             <li><a href="#">Portfolio</a></li>
@@ -30,7 +29,7 @@
                         </ul>
                     </div>
                     <div class="col-md-6 item text">
-                        <h3>Short Bioghrapy</h3>
+                        <h1>Short Bioghrapy</h1>
                         <p>Saya adalah seorang pelajar SMK, yang masih haus akan banyak ilmu pengetahuan .
               			   Dan saya adalah seorang pelajar yang akan terus belajar untuk mengembangkan diri agar
               			   kelak bisa berguna bagi perubahan dunia.

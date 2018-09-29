@@ -1,39 +1,31 @@
 <!DOCTYPE html>
-<!--[if lt IE 8 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 8)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<html class="no-js" lang="en"> 
 <head>
-
-   <!--- Basic Page Needs
-   ================================================== -->
-   <meta charset="utf-8">
-	<title>Ceevee - Free Responsive HTML5/CSS3 Template</title>
+  
+  <meta charset="utf-8">
+	<title>About us</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
-
-   <!-- Mobile Specific Metas
-   ================================================== -->
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 	<!-- CSS
     ================================================== -->
-   <link rel="stylesheet" href="css/default.css">
-	<link rel="stylesheet" href="css/layout.css">
-   <link rel="stylesheet" href="css/media-queries.css">
-   <link rel="stylesheet" href="css/magnific-popup.css">
-   <!-- Script
-   ================================================== -->
-	<script src="js/modernizr.js"></script>
-
-   <!-- Favicons
-	================================================== -->
-	<link rel="shortcut icon" href="favicon.png" >
-
+   <link rel="stylesheet" href="../assets/css/default.css">
+	 <link rel="stylesheet" href="../assets/css/layout.css">
+   <link rel="stylesheet" href="../assets/css/media-queries.css">
+   <link rel="stylesheet" href="../assets/css/magnific-popup.css">
+   <!-- font -->
+   <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+  <!-- logo website
+	  ================================================== -->
+	<link rel="shortcut icon" href="" >
 </head>
 <body>
-	
+  <?php include'header.php';?>
+  <!-- banner website
+    ================================================== -->
 	<header id="home">
-
 	<div class="row banner">
          <div class="banner-text">
             <h1 class="responsive-headline">I'm M Fadhly NR.</h1>

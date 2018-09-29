@@ -1,12 +1,18 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<link rel="stylesheet" href="../assets/css/bootstrap/bootstrap.css">
+		<!-- CSS
+			=================================== -->
+		<link rel="stylesheet" href="../assets/css/bootstrap.css">
 		<link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+		<!-- JS
+			=================================== -->
 		<script type="text/javascript" src="../js/jquery.js"></script>
 		<script type="text/javascript" src="../js/bootstrap.js"></script>
 	</head>
 	<body>
+		<!-- navbar
+			=================================== -->
 		<nav class="navbar navbar-inverse">
 			<div class="container-fluid">
 				<div class="navbar-header">
@@ -15,11 +21,13 @@
 					</div>
 				</div>
 				<ul class="nav navbar-nav">
-					<li><a href="../templates/index.php">Home</a></li>
-					<li><a href="../templates/profile.php">Profile</a></li>
-					<li><a href="../about.php">About Me</a></li>
+					<li><a href="index.php">Home</a></li>
+					<li><a href="profile.php">Profile</a></li>
+					<li><a href="about.php">About Me</a></li>
 				</ul>
 			</div>
+		<!-- end navbar
+			=================================== -->
 		</nav>
 	</body>
 </html>

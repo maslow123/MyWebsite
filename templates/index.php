@@ -2,9 +2,17 @@
 <html>
 <head>
 	<title>Hello</title>
+	<!-- meta
+		=================================== -->
 	<meta charset="UTF-8">
+	<!-- CSS
+		=================================== -->
 	<link rel="stylesheet" href="../assets/css/style.css">
+	<!-- embed font from google
+		=================================== -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+	<!-- CSS INTERN
+		=================================== -->
 	<style>
 		.parallax-content{
 			background-image:url('../assets/images/content.jpg');
@@ -18,12 +26,15 @@
 	</style>
 </head>
 <body>
+	<!-- include file slick.php -->
 	<?php include 'slick.php'?>
-	
+	<!-- section biodata -->
 	<section class="parallax-content">
+		<!-- biodata title -->
 		<div class="sub">
 			<h3>BIODATA SINGKAT</h3>
 		</div>
+		<!-- short story -->
 		<div class="col-md-3 col-xs-3 content">
 			2011 : Mulai mengenal komputer</h1><br><br><hr class="hr-content">
 			<p>Pada tahun 2011 saya mulai mengenal komputer ketika saya hendak bermain
@@ -40,7 +51,10 @@
 			<p>Tahun 2018 saya baru dapat mengerti bagaimana konsep pemrograman dalam pembuatan
 			   sebuah aplikasi khususnya website.</p> 
 		</div>
+	<!-- end section -->
 	</section>
+	<!-- include file footer.php -->
 	<?php include 'footer.php'?>
+	
 </body>
 </html>

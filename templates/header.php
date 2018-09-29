@@ -17,7 +17,7 @@
 				<ul class="nav navbar-nav">
 					<li><a href="../templates/index.php">Home</a></li>
 					<li><a href="../templates/profile.php">Profile</a></li>
-					<li><a href="#">About Me</a></li>
+					<li><a href="../about.php">About Me</a></li>
 				</ul>
 			</div>
 		</nav>

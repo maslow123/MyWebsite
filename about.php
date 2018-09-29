@@ -1,39 +1,47 @@
 <!DOCTYPE html>
-<!--[if lt IE 8 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 8)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<html class="no-js" lang="en"> 
 <head>
-
-   <!--- Basic Page Needs
-   ================================================== -->
-   <meta charset="utf-8">
-	<title>Ceevee - Free Responsive HTML5/CSS3 Template</title>
+  
+  <meta charset="utf-8">
+	<title>About us</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
-
-   <!-- Mobile Specific Metas
-   ================================================== -->
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 	<!-- CSS
     ================================================== -->
    <link rel="stylesheet" href="css/default.css">
-	<link rel="stylesheet" href="css/layout.css">
+	 <link rel="stylesheet" href="css/layout.css">
    <link rel="stylesheet" href="css/media-queries.css">
    <link rel="stylesheet" href="css/magnific-popup.css">
-   <!-- Script
-   ================================================== -->
-	<script src="js/modernizr.js"></script>
-
-   <!-- Favicons
-	================================================== -->
-	<link rel="shortcut icon" href="favicon.png" >
-
+   <link rel="stylesheet" href="assets/css/bootstrap.css">
+   <!-- font -->
+   <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+  <!-- logo website
+	  ================================================== -->
+	<link rel="shortcut icon" href="" >
 </head>
 <body>
-	
+  <!-- navbar
+    ================================================== -->
+  <nav class="navbar navbar-inverse">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <div class="navbar-brand">
+            <img src="assets/images/logo.png" style="width:75px;height:40px; margin:-10px 0 0 -20px; float:left;"/>Maslow
+          </div>
+        </div>
+        <ul class="nav navbar-nav">
+          <li><a href="templates/index.php">Home</a></li>
+          <li><a href="templates/profile.php">Profile</a></li>
+          <li><a href="#">About Me</a></li>
+        </ul>
+      </div>
+    </nav>
+  <!-- banner website
+    ================================================== -->
 	<header id="home">
-
 	<div class="row banner">
          <div class="banner-text">
             <h1 class="responsive-headline">I'm M Fadhly NR.</h1>
@@ -59,7 +67,7 @@
     <section id="about">
     	<div class="row">
     		<div class="three columns">
-    			<img class="profil-pict" src="../assets/images/me.jpg" alt=""/>
+    			<img class="profil-pict" src="assets/images/me.jpg" alt=""/>
     		</div>
     		<div class="nine columns main-col">
     			<h2>About Me</h2>

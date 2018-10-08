@@ -6,8 +6,8 @@
   <!-- CSS
     =================================== -->
 	<link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="../assets/slick/slick.css">
-	<link rel="stylesheet" type="text/css" href="../assets/slick/slick-theme.css">
+	<link rel="stylesheet" type="text/css" href="../assets/css/slick/slick.css">
+	<link rel="stylesheet" type="text/css" href="../assets/css/slick/slick-theme.css">
 	<link rel="stylesheet" type="text/css" href="../assets/css/slick-animation.css">
   <!-- give css intern class parallax
     =================================== -->
@@ -60,7 +60,7 @@
   	</section>
     <!-- js for slick slider -->
   	<script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
-  	<script src="../assets/slick/slick.js" type="text/javascript" charset="utf-8"></script>
+  	<script src="../assets/css/slick/slick.js" type="text/javascript" charset="utf-8"></script>
     <!-- intern js slick slider -->
   	<script type="text/javascript">
   	$(document).on('ready',function(){

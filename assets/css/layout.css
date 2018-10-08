@@ -78,7 +78,7 @@ header .social li a:hover { color: #11ABB0; }
 
 /* scrolldown link */
 header .scrolldown a {
-   position: absolute;
+   position: relative;
    bottom: 30px;
    left: 50%;
    margin-left: -29px;
@@ -187,26 +187,30 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profil-pict {
    position: relative;
-   width: 150px;
-   height: 150px;
-
+   width: 175px;
+   height: 175px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
-#about .download {
+#about .motto {
    width: 58.33333%;
-   padding-top: 6px;
+   margin-left: 26,999px;
+   padding-right:13px;
+   top:64px;
+   box-shadow:0px 1px 5px rgba(0.0.0.5);
+   border-radius:10px;
 }
+#about .v-motto{font:22px/30px 'Pacifico',cursive,sans-serif;color:#d4d2d8;}
 #about .main-col { padding-right: 5%; }
-#about .download .button {
+#about .motto .button {
    margin-top: 6px;
    background: #444;
 }
-#about .download .button:hover {
+#about .motto .button:hover {
    background: #fff;
    color: #2B2B2B;
 }
-#about .download .button i {
+#about .motto .button i {
    margin-right: 15px;
    font-size: 20px;
 }
@@ -221,6 +225,7 @@ ul#nav li.current a { color: #F06000; }
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
+   padding-left:90px;
 }
 
 #resume a, #resume a:visited  { color: #11ABB0; }
@@ -238,7 +243,14 @@ ul#nav li.current a { color: #F06000; }
 #resume h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
 }
-
+#resume p{
+    color: #838C95;
+    font-size:15px;
+    background:transparent; 
+    line-height: 1.8em;
+    padding-bottom: 8px;
+    position:relative;
+}
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
 
@@ -268,13 +280,13 @@ ul#nav li.current a { color: #F06000; }
 
 .bars {
 	width: 95%;
-	float: left;
 	padding: 0;
 	text-align: left;
 }
 .bars .skills {
   	margin-top: 36px;
    list-style: none;
+
 }
 .bars li {
    position: relative;
@@ -306,15 +318,15 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
-  	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+.php {
+  	width: 35%;
+  	-moz-animation: php 2s ease;
+  	-webkit-animation: php 2s ease;
 }
-.illustrator {
-  	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+.mysql {
+  	width: 37%;
+  	-moz-animation: mysql 2s ease;
+  	-webkit-animation: mysql 2s ease;
 }
 .wordpress {
   	width: 50%;
@@ -322,28 +334,28 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: wordpress 2s ease;
 }
 .css {
-  	width: 90%;
+  	width: 45%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
 .html5 {
-  	width: 80%;
+  	width: 40%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+.js {
+  	width: 10%;
+  	-moz-animation: js 2s ease;
+  	-webkit-animation: js 2s ease;
 }
 
-@-moz-keyframes photoshop {
+@-moz-keyframes php {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 35%;  }
 }
-@-moz-keyframes illustrator {
+@-moz-keyframes mysql {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 37%;  }
 }
 @-moz-keyframes wordpress {
   0%   { width: 0px;  }
@@ -351,24 +363,24 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 45%;  }
 }
 @-moz-keyframes html5 {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 40%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes js {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 10%;  }
 }
 
-@-webkit-keyframes photoshop {
+@-webkit-keyframes php {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 35%;  }
 }
-@-webkit-keyframes illustrator {
+@-webkit-keyframes mysql {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 37%;  }
 }
 @-webkit-keyframes wordpress {
   0%   { width: 0px;  }
@@ -376,15 +388,15 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 45%;  }
 }
 @-webkit-keyframes html5 {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 40%;  }
 }
-@-webkit-keyframes jquery {
+@-webkit-keyframes js {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 10%;  }
 }
 
 /* ------------------------------------------------------------------ */

@@ -3,7 +3,7 @@
 <head>
   
   <meta charset="utf-8">
-	<title>About us</title>
+	<title>About me</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
   
@@ -16,6 +16,7 @@
    <link rel="stylesheet" href="../assets/css/media-queries.css">
    <link rel="stylesheet" href="../assets/css/magnific-popup.css">
    <!-- font -->
+   <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
    <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
   <!-- logo website
 	  ================================================== -->
@@ -34,17 +35,14 @@
             </h3>
             <hr />
             <ul class="social">
-               <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+               <li><a href="https://web.facebook.com/fadhly.rasyaii"><i class="fa fa-facebook"></i></a></li>
                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-               <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-               <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-               <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+               <li><a href="https://www.instagram.com/fadhlynrrzqi/"><i class="fa fa-instagram"></i></a></li>
                <li><a href="#"><i class="fa fa-skype"></i></a></li>
             </ul>
          </div>
       </div>
-
     </header>
     <!-- About my profil
     ======================== -->
@@ -77,12 +75,43 @@
     						<span>mfadhlyn@gmail.com</span>
     					</p>
     				</div>
-    			<!-- My Contact -->
-    			</div>
-    		</div>
-    	<!-- Row -->
-    </div>
-    <!-- About My profil -->
-   </section>
+            <div class="columns motto">
+              <h2 class="v-motto">Berjalanlah jangan berlari, sebab hidup itu tentang perjalanan bukan pelarian</h2>    
+            </div>
+    			<!-- Row -->
+    		  </div>
+        <!-- main.col -->
+        </div>
+        <!-- row -->
+      </div>
+    </section>
+    <!-- SKILL
+      ================= -->
+    <section id="resume">
+      <div class="row skill">
+          <div class="three columns header-col">
+              <h1><span>Skills</span></h1>
+          </div>
+          <div class="nine columns main-col">
+
+            <p>Adapun beberapa keterampilan serta kemampuan yang saya miliki sementara ini
+               dalam mengejar kebutuhan industri.Ini adalah pelajaran yang saya dapatkan ketika saya masih seorang
+               pelajar SMK, berikut adalah statistik kemampuan yang saya pelajari tentang pemrograman web :
+            </p>
+            
+            <div class="bars">
+               <ul class="skills">
+                  <li><span class="bar-expand php"></span><em>PHP</em></li>
+                  <li><span class="bar-expand css"></span><em>CSS</em></li>
+                  <li><span class="bar-expand html5"></span><em>HTML5</em></li>
+                  <li><span class="bar-expand js"></span><em>JAVASCRIPT</em></li>
+                  <li><span class="bar-expand mysql"></span><em>MYSQL</em></li>
+               </ul>
+            </div>  <!-- end bar -->
+
+          </div>  <!-- end column -->
+      
+      </div>  <!-- end skill -->
+   </section> <!-- resume section end -->
 </body>
 </html>

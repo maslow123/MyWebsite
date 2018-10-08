@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Profile</title>
 	<meta charset="UTF-8">
 	<link rel="stylesheet" type="text/css" href="../assets/css/profile.css">
 	<link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">
@@ -23,7 +23,7 @@
 			<h2 style="text-align: center;font-family: 'Inconsolata';">MY PROFILE</h2>
 			<div class="w3-panel w3-leftbar w3-light-grey">
       			<h3 class="b-sub">
-      				Hello, I'm a junior programmer /<div style="color:#1d90fe; float:right; padding-left:3px; font-size:18px; ">Web Developer / Web Design</div>
+      				Hello, I'm a junior programmer <div style="color:#1d90fe; float:right; padding-left:3px; font-size:18px; ">/ Web Developer / Web Design</div>
       			</h3>
       			<h3 class="b-sub-2">
       				Saya adalah junior programmer yang hanya berpendidikan SMK, mulai mengenali programming
